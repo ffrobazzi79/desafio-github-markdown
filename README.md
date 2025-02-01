@@ -27,3 +27,5 @@ Objetivos:
     - [] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
 
 
+* Nova branch criada v_01 no repositório do colaborador.
+
